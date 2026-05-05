@@ -20,7 +20,7 @@ public class Student {
     
     /*
      * Gets the student's choice and runs it until the student exits
-     */
+     */ 
     public void getChoice() {
         int option = -1;
 
